@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "mkhl.direnv",
+    "jnoortheen.nix-ide",
+    "dbaeumer.vscode-eslint",
+    "vitest.explorer",
+    "ms-python.python",
+    "detachhead.basedpyright"
+  ]
+}

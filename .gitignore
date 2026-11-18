@@ -6,3 +6,7 @@ __pycache__/
 .pytest_cache/
 .ruff_cache/
 *.pyc
+
+# Nix / direnv development environment
+.direnv/
+.envrc.local
